@@ -46,7 +46,7 @@ def exercise_3():
 
 
 if __name__ == "__main__":
-    print("Laboratory 3 - ADC-BSC")
+    print("Laboratory 1 - ADC-BSC")
     
     exercise_1()
     exercise_2()
