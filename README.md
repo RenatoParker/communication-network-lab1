@@ -1,5 +1,5 @@
 ---
-  Open and Virtualized Networks - Lab 3
+  Communication networks - Lab 1
 ---
 
 The aim of these exercises is to build a software abstraction of a PCM
